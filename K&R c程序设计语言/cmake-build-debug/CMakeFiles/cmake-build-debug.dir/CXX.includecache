@@ -1,0 +1,74 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/main.cpp
+part1.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part1.cpp
+part2.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part2.cpp
+part3.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part3.cpp
+part4.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part4.cpp
+part5.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part5.cpp
+part6.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part6.cpp
+part7.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part7.cpp
+test.cpp
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/test.cpp
+ctime
+-
+shared.h
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part1.cpp
+string
+-
+shared.h
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part2.cpp
+iostream
+-
+cmath
+-
+climits
+-
+cstring
+-
+shared.h
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part3.cpp
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part4.cpp
+stack
+-
+shared.h
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part5.cpp
+shared.h
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part6.cpp
+shared.h
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/part7.cpp
+cstdlib
+-
+cstdarg
+-
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/shared.h
+
+/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/test.cpp
+
