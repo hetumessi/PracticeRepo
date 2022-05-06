@@ -1,2 +1,0 @@
-/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/K&R c程序设计语言/cmake-build-debug/CMakeFiles/edit_cache.dir
