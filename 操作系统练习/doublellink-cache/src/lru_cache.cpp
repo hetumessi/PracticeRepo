@@ -1,4 +1,4 @@
-#include "/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/编程基础/ppt/cpp/computer_principle/include/lru_cache.h"
+#include "lru_cache.h"
 
 int LRUCache::get(int key){
     std::map<int,Node*>::iterator it = this->map.find(key);

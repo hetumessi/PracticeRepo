@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q暂定论文题目：基于微型专家系统的ABS风险评估方案\\E$"}

@@ -1,0 +1,522 @@
+{
+  "rootTopicKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+  "editorRootTopicKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+  "focusKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "6a2a9083-015c-472e-bfa8-715da3f806c8",
+      "parentKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "subKeys": [
+        "31c84cba-1aa8-439c-8698-b10c95f325c3",
+        "69f5f74d-043c-4eb9-b015-a6a66cb1166b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "测试"
+        }
+      ]
+    },
+    {
+      "key": "feb437e7-10a2-4a42-9d03-256dfb0b46d0",
+      "parentKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "subKeys": [
+        "3bb74be5-f955-41a1-a2bc-300a12fc15d3",
+        "261f9df6-2319-4e89-8a65-64385cf6d1e2",
+        "c1512b57-cdba-4e89-952b-1b38101b6519",
+        "5bd31770-c214-4cb8-8361-996f19b39fe8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "专家系统技术简介"
+        }
+      ]
+    },
+    {
+      "key": "5bd31770-c214-4cb8-8361-996f19b39fe8",
+      "parentKey": "feb437e7-10a2-4a42-9d03-256dfb0b46d0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "解释机设计"
+        }
+      ]
+    },
+    {
+      "key": "31c84cba-1aa8-439c-8698-b10c95f325c3",
+      "parentKey": "6a2a9083-015c-472e-bfa8-715da3f806c8",
+      "subKeys": [
+        "2a25e69e-83be-4a6f-995e-597be6d1b170"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "功能测试"
+        }
+      ]
+    },
+    {
+      "key": "f3097b0f-13a8-4140-a6b9-354eecff1119",
+      "parentKey": "dbd84159-371f-46c3-92b8-d8580a6fe6b8",
+      "subKeys": [],
+      "collapse": false,
+      "style": "{\"contentStyle\":{\"fontSize\":15}}",
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "VaR"
+        }
+      ]
+    },
+    {
+      "key": "570c0a7b-aa79-43ee-b675-88e9f9feb62b",
+      "parentKey": "f9ba0ebb-f930-44de-97ec-bcb7ce7cc697",
+      "subKeys": [
+        "36d07a2d-8e94-4255-9c11-ddec5dcb602f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "定性方法"
+        }
+      ]
+    },
+    {
+      "key": "564222d6-fd82-46f8-b7bc-1190faa93ea6",
+      "parentKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "subKeys": [
+        "5c666c90-b0ba-4e52-996d-ba2ea6f64b00",
+        "9d31fcec-e3c6-4f25-a738-fadbe98b8810",
+        "5a7b001e-f219-4cbb-9bf1-b8684483c0a9",
+        "587ce2b6-21f1-4961-9f8c-3ef9e7b03183"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "构建专家系统"
+        }
+      ]
+    },
+    {
+      "key": "3bb74be5-f955-41a1-a2bc-300a12fc15d3",
+      "parentKey": "feb437e7-10a2-4a42-9d03-256dfb0b46d0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "概述、总体结构设计"
+        }
+      ]
+    },
+    {
+      "key": "18253ddc-e2f6-4cf7-9ce5-ea8f2bad1538",
+      "parentKey": "4e62739a-3d08-4175-9f47-f729d7de82ad",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "研究背景与意义"
+        },
+        {
+          "type": "DESC",
+          "data": "关键内容：\n引进机器学习技术的意义\n国内外现有评估模型"
+        }
+      ]
+    },
+    {
+      "key": "5c666c90-b0ba-4e52-996d-ba2ea6f64b00",
+      "parentKey": "564222d6-fd82-46f8-b7bc-1190faa93ea6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "知识来源"
+        }
+      ]
+    },
+    {
+      "key": "5a7b001e-f219-4cbb-9bf1-b8684483c0a9",
+      "parentKey": "564222d6-fd82-46f8-b7bc-1190faa93ea6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "模块实现方法"
+        },
+        {
+          "type": "DESC",
+          "data": "主程序模块\n风险诊断模块\n输出模块\n模型查看模块\n错误处理模块"
+        }
+      ]
+    },
+    {
+      "key": "4e62739a-3d08-4175-9f47-f729d7de82ad",
+      "parentKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "subKeys": [
+        "18253ddc-e2f6-4cf7-9ce5-ea8f2bad1538",
+        "1c3ae1d8-0e65-4417-9fcc-d9caedb51861",
+        "fa65b811-0784-4959-bee8-f009334dcbf9"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "绪论"
+        }
+      ]
+    },
+    {
+      "key": "69f5f74d-043c-4eb9-b015-a6a66cb1166b",
+      "parentKey": "6a2a9083-015c-472e-bfa8-715da3f806c8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "压力测试"
+        },
+        {
+          "type": "DESC",
+          "data": "大额借款人及占比较高的行业/地区的集中度测试用来评估集中度较高的大额借款人违约对于ABS证券兑付的影响程度，是国际评级机构在对中小企业贷款ABS进行信用评估时必不可少的环节。一方面，直接在组合模型或现金流模型中，对大额借款人或集中度较高的行业/地区的贷款的违约率和相关性进行放大，测试各种压力情景下对资产组合的信用水平和现金流的影响；另一方面，在一定的回收率假设下，进行独立的大额压力测试，确保AAAsf和AAsf级别能够承受组合中小部分大额借款人及最大单一行业/地区的借款人违约。\n"
+        }
+      ]
+    },
+    {
+      "key": "1c3ae1d8-0e65-4417-9fcc-d9caedb51861",
+      "parentKey": "4e62739a-3d08-4175-9f47-f729d7de82ad",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "国内外研究现状分析"
+        }
+      ]
+    },
+    {
+      "key": "587ce2b6-21f1-4961-9f8c-3ef9e7b03183",
+      "parentKey": "564222d6-fd82-46f8-b7bc-1190faa93ea6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "系统实例展示说明"
+        }
+      ]
+    },
+    {
+      "key": "c1512b57-cdba-4e89-952b-1b38101b6519",
+      "parentKey": "feb437e7-10a2-4a42-9d03-256dfb0b46d0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "推理机设计"
+        },
+        {
+          "type": "DESC",
+          "data": "推理方法：目前计划主要采用\\(深度？\\)神经网络模型\n介绍这种模型方法"
+        }
+      ]
+    },
+    {
+      "key": "82ae3e4f-eb4d-4608-8232-e607603536b5",
+      "parentKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "总结与展望"
+        }
+      ]
+    },
+    {
+      "key": "261f9df6-2319-4e89-8a65-64385cf6d1e2",
+      "parentKey": "feb437e7-10a2-4a42-9d03-256dfb0b46d0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "知识库设计"
+        },
+        {
+          "type": "DESC",
+          "data": "首先不计划实现数据库实时更新的功能\n数据输入依赖于手动标准输入或者文件输入操作\n重点在于介绍知识库中的各种动态数据结构设计"
+        }
+      ]
+    },
+    {
+      "key": "1be3d69a-c6f9-475e-8cc1-2389e51fe88b",
+      "parentKey": "9d31fcec-e3c6-4f25-a738-fadbe98b8810",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "数据表结构设计"
+        }
+      ]
+    },
+    {
+      "key": "36d07a2d-8e94-4255-9c11-ddec5dcb602f",
+      "parentKey": "570c0a7b-aa79-43ee-b675-88e9f9feb62b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "专家方法"
+        },
+        {
+          "type": "DESC",
+          "data": "大概是个各种方法结合起来的统称\n对几大维度进行考察\\(如6c\\)\n以评级、打分等手段呈现"
+        }
+      ]
+    },
+    {
+      "key": "f9ba0ebb-f930-44de-97ec-bcb7ce7cc697",
+      "parentKey": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "subKeys": [
+        "570c0a7b-aa79-43ee-b675-88e9f9feb62b",
+        "dbd84159-371f-46c3-92b8-d8580a6fe6b8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "ABS风险评估理论研究"
+        }
+      ]
+    },
+    {
+      "key": "f40653d1-127b-4683-8a31-7b4fa313e519",
+      "parentKey": "dbd84159-371f-46c3-92b8-d8580a6fe6b8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "credit matrix"
+        }
+      ]
+    },
+    {
+      "key": "2a25e69e-83be-4a6f-995e-597be6d1b170",
+      "parentKey": "31c84cba-1aa8-439c-8698-b10c95f325c3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "输入数据，计算违约率"
+        }
+      ]
+    },
+    {
+      "key": "9d31fcec-e3c6-4f25-a738-fadbe98b8810",
+      "parentKey": "564222d6-fd82-46f8-b7bc-1190faa93ea6",
+      "subKeys": [
+        "d979910e-a755-43c2-99b1-850f7f12ce04",
+        "1be3d69a-c6f9-475e-8cc1-2389e51fe88b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "动态数据结构设计"
+        }
+      ]
+    },
+    {
+      "key": "fa65b811-0784-4959-bee8-f009334dcbf9",
+      "parentKey": "4e62739a-3d08-4175-9f47-f729d7de82ad",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "﻿论文结构安排等"
+        }
+      ]
+    },
+    {
+      "key": "d979910e-a755-43c2-99b1-850f7f12ce04",
+      "parentKey": "9d31fcec-e3c6-4f25-a738-fadbe98b8810",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "知识表示"
+        }
+      ]
+    },
+    {
+      "key": "36a287f7-925b-4152-8cf0-05ddce0f28b2",
+      "parentKey": "dbd84159-371f-46c3-92b8-d8580a6fe6b8",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "kmv"
+        }
+      ]
+    },
+    {
+      "key": "dbd84159-371f-46c3-92b8-d8580a6fe6b8",
+      "parentKey": "f9ba0ebb-f930-44de-97ec-bcb7ce7cc697",
+      "subKeys": [
+        "f40653d1-127b-4683-8a31-7b4fa313e519",
+        "f3097b0f-13a8-4140-a6b9-354eecff1119",
+        "36a287f7-925b-4152-8cf0-05ddce0f28b2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "定量方法"
+        }
+      ]
+    },
+    {
+      "key": "d731afb1-7c5a-4ebc-9e93-1a0130a4f51d",
+      "parentKey": null,
+      "subKeys": [
+        "4e62739a-3d08-4175-9f47-f729d7de82ad",
+        "feb437e7-10a2-4a42-9d03-256dfb0b46d0",
+        "f9ba0ebb-f930-44de-97ec-bcb7ce7cc697",
+        "564222d6-fd82-46f8-b7bc-1190faa93ea6",
+        "6a2a9083-015c-472e-bfa8-715da3f806c8",
+        "82ae3e4f-eb4d-4608-8232-e607603536b5"
+      ],
+      "collapse": false,
+      "style": "{\"contentStyle\":{\"fontSize\":29}}",
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "基于微型专家系统的ABS信用风险评估方案"
+        },
+        {
+          "type": "DESC",
+          "data": ""
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 2,
+    "theme": {
+      "name": "theme3",
+      "randomColor": false,
+      "background": "#A9DEF9",
+      "highlightColor": "#50C9CE",
+      "marginH": 50,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5"
+      },
+      "linkStyle": {
+        "lineRadius": 5
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "background": "#FF99C8",
+          "color": "#fff",
+          "fontSize": "34px",
+          "borderRadius": "5px",
+          "padding": "16px 18px 16px 18px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "2px",
+          "lineColor": "#43a9ff"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "background": "#FCF6BD",
+          "borderWidth": "1px",
+          "borderStyle": "solid",
+          "borderColor": "#E4C1F9",
+          "borderRadius": "5px",
+          "color": "rgb(103,103,103)",
+          "fontSize": "14px",
+          "padding": "6px 10px 5px 10px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "2px",
+          "lineColor": "#43a9ff"
+        }
+      },
+      "normalTopic": {
+        "contentStyle": {
+          "background": "#E4FDE1",
+          "borderRadius": "5px",
+          "color": "rgb(103,103,103)",
+          "fontSize": 14,
+          "padding": "3px 6px 4px 9px",
+          "boxShadow": "1px 1px 1px #ccc"
+        },
+        "subLinkStyle": {
+          "lineType": "round",
+          "lineRadius": 5,
+          "lineWidth": "1px",
+          "lineColor": "#43a9ff"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}

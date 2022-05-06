@@ -1,4 +1,4 @@
-#include "/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/编程基础/ppt/cpp/computer_principle/include/lfu_cache.h"
+#include "lfu_cache.h"
 
 #include <cstdlib>
 

@@ -1,4 +1,4 @@
-#include "/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/编程基础/ppt/cpp/computer_principle/include/fifo_cache.h"
+#include"fifo_cache.h"
 
 // map的find函数来定位数据出现位置，它返回的一个迭代器，当数据出现时，它返回数据所在位置的迭代器
 // 如果map中没有要查找的数据，它返回的迭代器等于end函数返回的迭代器

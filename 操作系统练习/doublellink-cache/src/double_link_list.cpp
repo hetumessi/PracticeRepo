@@ -1,4 +1,4 @@
-#include"/Users/xushaoqian/Library/Mobile Documents/com~apple~CloudDocs/cpp/编程基础/ppt/cpp/computer_principle/include/double_link_list.h"
+#include"double_link_list.h"
 
 /** Node* add_head(Node*);
     Node* add_tail(Node*);

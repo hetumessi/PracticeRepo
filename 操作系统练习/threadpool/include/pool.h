@@ -1,5 +1,5 @@
-#ifndef __GAIA_POOL_H__
-#define __GAIA_POOL_H__
+#ifndef __POOL_H__
+#define __POOL_H__
 
 #include "task.h"
 #include "queue.h"
